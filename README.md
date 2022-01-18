@@ -20,7 +20,7 @@
 ## 🚀 My Tech-Stacks:
 
 
-<p > 
+<p align ="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/html-5.png" height="60" width="60"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/> </a> 
@@ -37,7 +37,7 @@
 <br>
 
 ## 😄 Connect with me:
-<p>
+<p align ="center">
 <a href="https://www.linkedin.com/in/navya-arora-6193731ba/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
 <a href="https://www.instagram.com/navyya.arora/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;
 <a href="https://twitter.com/navyaarora_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>&nbsp; &nbsp;
