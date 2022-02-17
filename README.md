@@ -6,9 +6,9 @@
 <br>
 
 - 🌱 I’m currently learning  Data Structures and Algorithms 
-- 🌐 I'm increasing my expertise in NodeJS.
+- 🌐 I'm increasing my expertise in ReactJS.
 - 👯 Trying to be an Active contributor in Open Source Projects.
-- 💬 Ask me anything about Front end development technologies.
+<!-- - 💬 Ask me anything about Front end development technologies. -->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Code is like humor. When you have to explain it, it's bad.
 <!-- - 📫 How to reach me: arora.navya2003@gmail.com -->
