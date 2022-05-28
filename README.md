@@ -1,7 +1,7 @@
 
 <h1 align ="center">Hey there, I'm Navya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<!-- <img align="right" alt="Coding" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width ="230px" height= "230px"> -->
+<img align="right" alt="Coding" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width ="230px" height= "230px">
 
 <br>
 
