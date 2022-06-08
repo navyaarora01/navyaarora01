@@ -9,7 +9,7 @@
 - 🌐 I'm increasing my expertise in ReactJS.
 - 👯 Trying to be an Active contributor in Open Source Projects.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Code is like humor. When you have to explain it, it's bad.
+<!-- - ⚡ Fun fact: Code is like humor. When you have to explain it, it's bad. -->
 <!-- - 📫 How to reach me: arora.navya2003@gmail.com -->
 <!-- - 💬 Ask me anything about Front end development technologies. -->
 <br>
