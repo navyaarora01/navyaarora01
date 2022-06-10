@@ -43,4 +43,17 @@
 <a href="https://twitter.com/navyaarora_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>&nbsp; &nbsp;
 <a href = "mailto:arora.navya2003@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
-
+<br>
+    
+## 📊 My Github Stats:
+ 
+<a href="https://github.com/navyaarora01">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=navyaarora01&show_icons=true&theme=radical" />
+ <img   width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=navyaarora01&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
+  <br>
+  <br>
+<!--    <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaarora01&layout=compact&theme=radical&hide_border=true&hide_title=true" />
+<br> -->
+<img alt="Navya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=navyaarora01&theme=react-dark"></a>
+ 
+<br>
