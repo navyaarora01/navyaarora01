@@ -26,6 +26,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="60" width="60"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" width="60"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img align="center" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff" alt="express" width="60" height="60"/> </a>
     <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="60" width="60"/> </a>      
     <a href="https://git-scm.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/git.png" height="60" width="60" /> </a> 
     <a href="https://github.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v3.png" height="60" width="60"/></a>
