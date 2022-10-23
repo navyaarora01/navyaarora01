@@ -50,7 +50,7 @@
  </p>
 <br>
     
-## 📊 My Github Stats:
+## 📊 My Github Stats: 
  
 <a href="https://github.com/navyaarora01">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=navyaarora01&show_icons=true&theme=radical" />
